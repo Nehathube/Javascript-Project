@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(93, 93, 134);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+input{
+    width: 350px;
+    height: 100px;
+    /* text-align: start; */
+    border-radius: 5px;
+    
+}
+.btn{
+    margin-top: 10px;
+    
+}
+#submit{
+    background-color:rgb(238, 150, 165);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0.5,0.5);
+    
+}
+.output{
+    margin-top: 10px;
+    display: inline-block;
+}
+#ans{
+    display: inline-block;
+}
+.input{
+    margin: 10px;
+    text-align: center;
+    
+}
+.heading{
+    margin: 10px;
+}
+
+
+    
+    
+

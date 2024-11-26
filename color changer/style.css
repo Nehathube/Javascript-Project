@@ -1,0 +1,38 @@
+
+#title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.container{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   padding-top: 200px;
+}
+    
+
+    #div1{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(210, 59, 210) ;
+    margin-right:20px ;
+    
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(143, 27, 47);
+    margin-right:20px ;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    background-color:green ;
+    margin-right:20px ;
+}
+#div4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(40, 62, 202);
+    margin-right:20px ;
+}

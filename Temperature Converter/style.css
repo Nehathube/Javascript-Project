@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aquamarine;
+
+}
+.container{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.temp{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    font-size: smaller;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+
+}
+.celcius{
+    text-align: center;
+    padding: 10px;
+}
+.kelvin{
+    text-align: center;
+    padding: 10px;
+}
+.Farenheit{
+    text-align: center;
+    padding: 10px;
+}
+input{
+    width: 85%;
+    margin-top: 5px;
+    font-size: 20px;
+}

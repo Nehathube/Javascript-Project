@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.ccode{
+    height: 100px;
+    width: 500px;
+    background-color: white;
+    text-align: center;
+    /* display: block; */
+    
+    
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+ 
+#btn{
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: violet;
+    transition: 0.5s;
+}
